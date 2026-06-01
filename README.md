@@ -11,7 +11,6 @@ Each problem lives in its own folder, grouped by difficulty and named with the p
 - `easy/` contains solved easy problems, grouped by folder name and problem number.
 - `medium/` contains medium-difficulty problems using the same folder convention.
 - `hard/` contains hard-difficulty problems using the same folder convention.
-- `templates/` contains reusable Markdown templates for new problems.
 - Each problem folder contains a `README.md` with the statement, approach, run instructions, and complexity, plus a `solution.cpp` file with the implementation.
 
 ## Problem Index
