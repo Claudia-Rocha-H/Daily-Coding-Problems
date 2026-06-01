@@ -18,6 +18,7 @@ Each problem lives in its own folder, grouped by difficulty and named with the p
 | # | Problem | Difficulty | Topics | Solution |
 | --- | --- | --- | --- | --- |
 | 1233 | [RGB Segregation](hard/1233-rgb-segregation/README.md) | 🔴 Hard | Arrays, Two Pointers, Greedy | [solution.cpp](hard/1233-rgb-segregation/solution.cpp) |
+| 1245 | [Text Justification](medium/1245-text-justification/README.md) | 🟡 Medium | Strings, Greedy | [solution.cpp](medium/1245-text-justification/solution.cpp) |
 | 1243 | [Shift String](easy/1243-shift-string/README.md) | 🟢 Easy | Strings, Two Pointers | [solution.cpp](easy/1243-shift-string/solution.cpp) |
 | 1248 | [Substring Concatenation of All Words](medium/1248-substring-concatenation-words/README.md) | 🟡 Medium | Strings, Hash Table, Sliding Window | [solution.cpp](medium/1248-substring-concatenation-words/solution.cpp) |
 | 1249 | [Valid Binary Search Tree](medium/1249-valid-binary-search-tree/README.md) | 🟡 Medium | Trees, Recursion | [solution.cpp](medium/1249-valid-binary-search-tree/solution.cpp) |
